@@ -1,0 +1,1 @@
+bot: bundle exec ruby reddit-crosspost-bot.rb
