@@ -26,8 +26,8 @@ session = Redd.it(
   user_agent: ENV['USER_AGENT'],
   client_id:  ENV['CLIENT_ID'],
   secret:     ENV['SECRET'],
-  username:   ENV['USERNAME'],
-  password:   ENV['PASSWORD']
+  username:   ENV['REDDIT_USERNAME'],
+  password:   ENV['REDDIT_PASSWORD']
 )
 
 
